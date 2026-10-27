@@ -10,4 +10,4 @@ Hospital Management System to automate hospital operations. The current manual s
 C# .NET, Microsoft Visual Studio, Microsoft SQL Server
 
 ### SRS Document
-SRS document will be uploaded here.
+[Proposal - Hospital Management System - Ghazala Asghar F23BINFT1M01219](./Hospital%20Management%20system.pdf)
