@@ -1,4 +1,4 @@
-# hospital-managemet-system
+# hospital-management-system
 # Hospital Management System - FYP
 
 **Student:** f23binft1m01219 - IUB Bahawalpur
